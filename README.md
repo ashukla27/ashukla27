@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Astha Shukla
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning DSA
 
 
 <!---
